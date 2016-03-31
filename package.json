@@ -1,0 +1,11 @@
+{
+	"name": "octopenguin",
+	"title": "octopenguin",
+	"description": "he is god",
+	"author": "CHOEUN",
+	"version": "0.0.1",
+	"main": "index.js",
+	"engines": {
+		"node": ">=0.8.0"
+	}
+}
